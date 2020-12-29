@@ -1,0 +1,15 @@
+{
+  "short_name": "Mdex",
+  "name": "Farm SUSHI,Uniswap LP and single Tokens",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/png",
+      "sizes": "24x24"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

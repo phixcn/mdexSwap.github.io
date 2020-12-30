@@ -3,9 +3,10 @@
   "name": "Farm SUSHI,Uniswap LP and single Tokens",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "mdex.png",
       "type": "image/png",
-      "sizes": "24x24"
+      "sizes": "200x200",
+      "purpose": "any maskable"
     }
   ],
   "start_url": ".",
